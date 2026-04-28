@@ -1,4 +1,4 @@
-var img_element = document.getElementById('bouncing-image');
+const img_element = document.getElementById('bouncing-image');
 var x_coord = 20;
 var y_coord = 20;
 var x_speed = 5;
